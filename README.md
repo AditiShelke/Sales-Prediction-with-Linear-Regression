@@ -1,4 +1,5 @@
 # Sales Prediction for Big Mart
+Check out my blog post for a detailed explanation of the project and its findings: https://medium.com/@aditishelke333/big-mart-prediction-with-linear-regression-449065e38f04
 
 ##Project Description
 This project aims to predict sales for the Big Mart retail chain using a Kaggle dataset. The dataset contains information on different items sold in the stores, including their characteristics and sales figures. By analyzing this data, the project hopes to gain insights on which factors are most important in determining sales and to create a model that can predict future sales.
